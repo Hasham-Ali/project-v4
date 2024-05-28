@@ -1211,11 +1211,11 @@ header:after {
         font-size: 20px;
     }
     .site-adress-box .addr {
-        padding: 23px 16px;
+        padding: 23px 16px !important;
     }
     .site-adress-box .addr p {
-        font-size: 17px;
-        line-height: 23px;
+        font-size: 17px !important;
+        line-height: 23px !important;
     }  
 
     .row.social-sec .col-lg-6 {
