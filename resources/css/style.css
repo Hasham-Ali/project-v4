@@ -1208,7 +1208,7 @@ header:after {
     }
     .site-contact-box ul li {
         padding: 0px 18px !important;
-        font-size: 20px;
+        font-size: 20px !important;
     }
     .site-adress-box .addr {
         padding: 23px 16px !important;
